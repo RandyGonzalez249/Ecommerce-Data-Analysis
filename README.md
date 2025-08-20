@@ -36,7 +36,8 @@ E-Commerce Dataset from Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerc
 /sql          # SQL scripts
 /tableau      # Tableau workbooks
 /docs         # BRDs, summary, reports
-/md           # README file &amp; MIT License
+/md           # README file
+LICENSE       # MIT License
 ```
 
 ## Key Deliverables
