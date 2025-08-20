@@ -30,12 +30,14 @@ E-Commerce Dataset from Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerc
 
 ## Repository Structure
 
+```
 /data         # raw &amp; cleaned datasets
 /notebooks    # Jupyter notebooks
 /sql          # SQL scripts
 /tableau      # Tableau workbooks
 /docs         # BRDs, summary, reports
 /md           # README file &amp; MIT License
+```
 
 ## Key Deliverables
 
